@@ -7,7 +7,7 @@ blurb:
     text: "codeflare.net berbagi informasi seputar blogging, tips SEO, template blogger, landing page, bisnis internet, money online, affiliasi, tips & trik, tutorial, widget dan coding."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "Kini Siapapun Bisa Membuat Landing Page Dengan Mudah Tanpa Perlu Biaya Mahal hanya dengan menggunakan blogspot. Buat Landing Page dengan Mudah dan Tingkatkan Penjualan Anda dengan menggunakan template landing page blogger, Anda akan dengan mudah dapat mengubah situs blogspot anda menjadi sebuah Landing Page, Sales Page, Web Profil, Blog, bahkan Toko Online! cepat, mudah dan berkualitas."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
