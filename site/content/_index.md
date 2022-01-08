@@ -10,11 +10,11 @@ intro:
     text: "Kini Siapapun Bisa Membuat Landing Page Dengan Mudah Tanpa Perlu Biaya Mahal hanya dengan menggunakan blogspot. Buat Landing Page dengan Mudah dan Tingkatkan Penjualan Anda dengan menggunakan template landing page blogger, Anda akan dengan mudah dapat mengubah situs blogspot anda menjadi sebuah Landing Page, Sales Page, Web Profil, Blog, bahkan Toko Online! cepat, mudah dan berkualitas."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "Landing, Landing Page, Landing Page Blogger, Landing Page Blogger Template, Tema Blog Minisite Terbaik, Blogspot Landing Page Templates, Best Minisite Blogger Template, Update Blogspot Minisite Themes, Tema Blog Produk Marketing, Promosi Produk Lewat Blogspot, Template Minisite dan Landing Page Blog, Download Blogger Minisite Template."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Free Minisite Blogger Template, Best Blogger Landing Page Template, Resposif Minisite Blogger Template, template Blogger Landing Page yang dapat anda unduh dengan mudah, Template Landing Page Blogspot Gratis, template landing page yang bisa anda download, Rekomendasi Template Premium Untuk Membuat Landing Page Menggunakan Blogspot, Free Download Template Landing Page Blogger Responsive."
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: Landing page blogger template ada 2 jenis, berbayar dan gratis, diklaim sudah sangat responsive, dengan fitur Dynamic Fluid Layout, SEO optimized, Sebuah Paket Minisite Blogspot Templates Siap Pakai Yang Bisa Digunakan Oleh Siapa Saja Untuk Membuat Minisite Dan Landing Page Secara Gratis, Download 30 Minisite Blogger Template Get Premium Desain Disertai HTML File, XML Blogspot Template.
 ---
 
