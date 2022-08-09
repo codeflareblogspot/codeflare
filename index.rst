@@ -10,5 +10,5 @@ So... yes CodeFlare is a blog and you can visit CodeFlare by anytime anywhere as
 Wanna see some magic ? come and join our adventure to the world of `CodeFlare <https://codeflare.net>`.
 
 Reference :
-`https://codeflare.eu.org <https://codeflare.eu.org>`
-`https://codeflare.blogspot.com <https://codeflare.blogspot.com>`
+`https://codeflare.eu.org`
+`https://codeflare.blogspot.com`
