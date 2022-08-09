@@ -1,86 +1,14 @@
 Welcome to `codeflare.net <https://codeflare.net>`_ documentation!
 =======================================
 
-<style>
-body {margin:0;padding:0;user-select:none;}
-.section{margin:0 !important;}
-.content{overflow:hidden;height:100vh;height:100vh;margin:0;padding:0;background-color:#061d29;}
-.left-side{float:left;width:28%;text-align:center;background-color:#020e13;box-sizing:border-box;}
-.left-side img{height:100vh;margin:0;padding:15px 0 5px 0;box-sizing:border-box;border:none;}
-.right-picture-profile{display:block;text-align:center;margin-top:10px;}
-.right-side{float:right;width:72%;height:100vh;text-align:center;color:#fff;background-color:#020e13;box-sizing:border-box;}
-.text-description{font-size:16px;font-family:"Roboto",Arial,Georgia;text-align:justify;padding:20px;margin:5px 10px 5px 10px;border-radius:10px;background-color:#23475a;border: 2px solid #69b2e2;}
-.text-description-bottom{font-size:14px;font-weight:bold;font-family:"Roboto",Arial,Georgia;margin:5px 0;}
+CodeFlare — is a blog, a beautiful blog, an inspiration blog and full with magic. CodeFlare is not just a blog its a creative blog with usefull information and great article content.
 
-.button-link {
-margin:10px 0 10px 0;
-background-color:#f6fcff;
-border-radius:6px;
-border:5px solid #69b2e2;
-display:inline-block;
-cursor:pointer;
-color:#ffffff;
-font-family:Arial;
-padding:0;
-text-decoration:none;
-}
-.button-link:hover {
-border:5px inset #0083da;
-}
-.button-link:active {
-position:relative;
-top:1px;
-}
-
-.rotate{
-perspective:1000px;transform-style:preserve-3d;
-}
-.rotate {
-animation:clipMe 6s linear infinite;
-}
-@keyframes clipMe {
-from {transform: rotateY(0deg);}
-to   {transform: rotateY(360deg);}
-}
-
-@media only screen and (max-width: 1124px), screen and (max-height: 550px) {
-.right-side{overflow-y:scroll;}
-}
-@media only screen and (max-width: 800px) {
-.content{height:fit-content;}
-.left-side{float:none;width:100%;padding:5px;border-right:none;border-bottom:2px solid silver;}
-.right-side{float:none;width:100%;height:fit-content;padding:5px;overflow-y:hidden;}
-}
-</style>
-
-<div class="content">
-<div class="left-side">
-<img border="0" src="https://1.bp.blogspot.com/-pMxXh-WMWhw/YTB9o6jl78I/AAAAAAAAEkc/FBmY4ZUaOAI5luDVTdIyvVCxaMoIYn5rQCLcBGAsYHQ/s0/black-latex-girl.png" />
-</div>
-<div class="right-side">
-<div class="right-picture-profile">
-<img class="rotate" border="0" src="https://3.bp.blogspot.com/-YiOpj6biVxc/XA9yILQhUZI/AAAAAAAAAo8/h8Cej9a_v9I_bFZXmr6xfWN-aVPlzBMHQCLcBGAs/s96/logo-codeflare-180px.png" />
-</div>
-<div class="text-description">
-<span style="color:#36afff;">Code</span><span style="color:#ffb100;">Flare</span> — is a blog, a beautiful blog, an inspiration blog and full with magic. CodeFlare is not just a blog its a creative blog with usefull information and great article content.
-<br /><br />
 CodeFlare is open to the public, so anyone can visit and tell a story. Everything from this blog is beyond our imagination, some might say that it's full of wonder for its unique and interesting style art of blogging.
-<br /><br />
-So... yes CodeFlare is a blog and you can visit CodeFlare by anytime anywhere as long as you have internet connection.
-<br /><br />
-Wanna see some magic ? come and join our adventure to the world of <span style="color:#36afff;">Code</span><span style="color:#ffb100;">Flare</span>.
-</div>
-<div class="button-link" title="Do not click !!! Leave me alone...">
-<img src="https://1.bp.blogspot.com/-JzRkAbh2xkI/XoqzxFTJXeI/AAAAAAAACrQ/JDk4T1MAzeAtmMYLBluOtqlb6KIcFiSZwCPcBGAYYCw/s0/visitor-blog.gif"/>
-</div>
-<div class="text-description-bottom">Don't feel bad, sometimes we just denying all the truth ! Feel stupid and hopeless</div>
-<br>
-<a href='https://ko-fi.com/N4N062RA7' target='_blank'><img height='36' style='border:0px;height:50px;background-color:#17bee5;border-radius:10px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href="https://www.buymeacoffee.com/codeflare" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=codeflare&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
-</div>
-</div>
 
-<script>
-var node=window.atob('d2luZG93Lm9wZW4oJ2h0dHA6Ly9hZGYubHkvODIyNDk3L2h0dHBzOi8vd3d3Lmdvb2dsZS5jb20vc2VhcmNoP3E9Y29kZWZsYXJlK2Jsb2cnLCdibGFuaycp');
-$(".button-link").click(function(){eval(node)});
-</script>
+So... yes CodeFlare is a blog and you can visit CodeFlare by anytime anywhere as long as you have internet connection.
+
+Wanna see some magic ? come and join our adventure to the world of `CodeFlare <https://codeflare.net>`.
+
+Reference :
+`https://codeflare.eu.org <https://codeflare.eu.org>`
+`https://codeflare.blogspot.com <https://codeflare.blogspot.com>`
