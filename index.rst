@@ -7,10 +7,12 @@ CodeFlare is open to the public, so anyone can visit and tell a story. Everythin
 
 So... yes CodeFlare is a blog and you can visit CodeFlare by anytime anywhere as long as you have internet connection.
 
-Wanna see some magic ? come and join our adventure to the world of `CodeFlare <https://codeflare.net>`_.
+Wanna see some magic ? come and join our adventure to the world of CodeFlare.
 
 Reference :
 
-`https://codeflare.eu.org`
+`https://www.codeflare.net`
 
-`https://codeflare.blogspot.com`
+`https://www.codeflare.eu.org`
+
+`https://www.codeflare.blogspot.com`
